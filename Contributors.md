@@ -204,6 +204,7 @@ Adwai
 - [Manjusha Nair](https://github.com//manjushabnair)
 - [Dharmateja176](https://github.com/Dharmateja176)
 - [Sohyb01](https://github.com/Sohyb01)
+  [Patrycja przybyszewska] (https://github.com/patrycjaprzybyszewska)
 - [ToAly](https://github.com/825437313)
 - [FunkyCreep](https://github.com/francoisbillet)
 - [Lanzhu](https://github.com/notLanzhu)
